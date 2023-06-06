@@ -52,3 +52,25 @@ body{
   text-decoration: none;
 
 }
+
+#pageTwo{
+  height: 100vh;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  margin-top: 10vh;
+}
+#videoBar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+video{
+  margin-top: 10vh;
+  border: 2px solid red;
+  box-shadow:2px 3px 3px black;
+  height: 70vh;
+}
